@@ -1,8 +1,3 @@
-"""
-552638 - too low
-557705 - correct
-"""
-
 import argparse
 import json
 
